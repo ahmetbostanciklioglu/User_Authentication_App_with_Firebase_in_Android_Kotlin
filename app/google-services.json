@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632166652497",
+    "project_id": "userauthanticationapp-firebase",
+    "storage_bucket": "userauthanticationapp-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632166652497:android:06c0cfd5e37c384f457670",
+        "android_client_info": {
+          "package_name": "com.userauthanticationapp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6PfgVusujSQ1TifiPIeF6c1wzFexNeBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
